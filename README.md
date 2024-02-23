@@ -23,7 +23,7 @@ This project is suitable for makers, electronics and 3D printing enthusiasts eve
 ## Assembly guide
 
 ### Alignment of magnets
-<img src="\magnetsAlignment.png" height="400">
+<img src="\magnetsAlignment.png" height="300">
 
 ### Wiring Diagram
-<img src="\Wiring.png" height="400">
+<img src="\Wiring.png" height="300">
